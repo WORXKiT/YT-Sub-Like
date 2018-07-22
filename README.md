@@ -12,6 +12,8 @@ pkg install nano
 
 git clone https://github.com/FewTeamBot/YT-Sub-Like
 
+python2 hakyt.py
+
 # edit file
 nano gmail.txt ใส่emailบอทพร้อมรหัสผ่าน
 เช่น emailyou@gmail.com:pass
